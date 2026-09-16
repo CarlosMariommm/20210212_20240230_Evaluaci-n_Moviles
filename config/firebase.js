@@ -30,3 +30,5 @@ export const database = getFirestore(app);
  
 export default app;
  
+
+/* :) */
